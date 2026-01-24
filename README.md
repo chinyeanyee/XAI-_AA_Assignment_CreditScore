@@ -1,8 +1,5 @@
-This is the sequence:
-First: Run Part1_DataCleaning  
+Streamlit Dashboard:
 
-Once you have the cleaned test and train data.
+![Image](https://github.com/user-attachments/assets/6d1304a1-2031-4f4f-886c-76878ffeb321)
 
-Then, run Part 2 Model Training with the test and train data.
-
-Last,I run the code "credit_risk_app" locally, enter streamlit run app.py in terminal. 
+![Image](https://github.com/user-attachments/assets/74b7f93d-cb48-41ef-941d-acf098169968)
